@@ -1,0 +1,7 @@
+node_modules
+dist
+dist-server
+.forge-data
+.env
+.git
+*.log

@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "name": "filesystem-extra",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-everything"],
+      "timeoutMs": 20000
+    }
+  ]
+}
